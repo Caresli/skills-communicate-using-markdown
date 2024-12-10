@@ -15,3 +15,7 @@ var myVar = "I miss you on a train";
 $ git init
 I miss you in the morning.
 ```
+
+- [ ] Go to The Eras tour
+- [ ] Cry
+- [ ] Drink wine
