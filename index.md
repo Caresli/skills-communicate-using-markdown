@@ -10,3 +10,8 @@
 ``` javascript
 var myVar = "I miss you on a train";
 ```
+
+```
+$ git init
+I miss you in the morning.
+```
